@@ -7,16 +7,18 @@
       "lastName": "Correa",
       "age": 19,
       "username": "DavdrewDev",
-      "email": "dacorrea@sudamericano.edu.ec"
+      "email": "dacorrea@sudamericano.edu.ec",
+      "description": " Joven desarrollador apasionado por la tecnología desde los 15 años, siempre con una laptop a cuestas y dispuesto a ayudar en proyectos de programación."
     },
     {
       "id": 2,
-      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "image": "https://avatars.githubusercontent.com/elkin08c",
       "firstName": "Elkin",
       "lastName": "Carriel",
       "age": 22,
-      "username": "el que no perdona nada",
-      "email": "escarriel@sudamericano.edu.ec"
+      "username": "Ghost.elkin",
+      "email": "escarriel@sudamericano.edu.ec",
+      "description": "Conocido por su peculiar estilo al vestir y sus comentarios ingeniosos en clase, es el amigo que siempre tiene un chiste listo para romper el hielo."
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "lastName": "Calle",
       "age": 23,
       "username": "Linux Backend Developer",
-      "email": "axcalle@sudamericano.edu.ec"
+      "email": "axcalle@sudamericano.edu.ec",
+      "description": "Veterano del curso con una memoria prodigiosa para recordar anécdotas de todas las generaciones pasadas, siempre tiene una historia interesante que contar."
     },
     {
       "id": 4,
@@ -33,8 +36,9 @@
       "firstName": "Damian",
       "lastName": "Olivo",
       "age": 20,
-      "username": "el que si perdona (a veces)",
-      "email": "drolivo@sudamericano.edu.ec"
+      "username": " DamianRoc",
+      "email": "drolivo@sudamericano.edu.ec",
+      "description": "Reconocido por su habilidad natural para resolver problemas complejos, es el estratega del grupo que siempre encuentra soluciones creativas."
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "lastName": "Muñoz",
       "age": 24,
       "username": "Metro 10",
-      "email": "dkmuñoz@sudamericano.edu.ec"
+      "email": "dkmuñoz@sudamericano.edu.ec",
+      "description": "Apodada 'Metro 10' por su puntualidad impecable, es la organizadora nata que mantiene al grupo en línea."
     },
     {
       "id": 6,
@@ -51,8 +56,9 @@
       "firstName": "Nathaly",
       "lastName": "Caballero",
       "age": 21,
-      "username": "Alá",
-      "email": "nmcaballero@sudamericano.edu.ec"
+      "username": "Nathaly",
+      "email": "nmcaballero@sudamericano.edu.ec",
+      "description": "Mentora experimentada que prefiere mantener un perfil bajo pero siempre está disponible para ayudar a sus estudiantes fuera del horario de clases."
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "lastName": "Prado",
       "age": 22,
       "username": "Linux Frontend Developer",
-      "email": "esprado@sudamericano.edu.ec"
+      "email": "esprado@sudamericano.edu.ec",
+      "description": "React Certified Developer"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "lastName": "Tinoco",
       "age": 20,
       "username": "El Presi",
-      "email": "latinoco@sudamericano.edu.ec"
+      "email": "latinoco@sudamericano.edu.ec",
+      "description": "No sabemos"
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "lastName": "Encalada",
       "age": 23,
       "username": "IngenieroEléctrico123",
-      "email": "flencalada@sudamericano.edu.ec"
+      "email": "flencalada@sudamericano.edu.ec",
+      "description": "Eléctrico"
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "lastName": "Aguilera",
       "age": 22,
       "username": "YoMeLlamo",
-      "email": "amaguilera@sudamericano.edu.ec"
+      "email": "amaguilera@sudamericano.edu.ec",
+      "description": "NOSE"
     },
     {
       "id": 11,
@@ -97,7 +107,8 @@
       "lastName": "Ramos",
       "age": 24,
       "username": "Veneco",
-      "email": "aaramos@sudamericano.edu.ec"
+      "email": "aaramos@sudamericano.edu.ec",
+      "description": "VENECO, RAPPI, UBEREATS, TODO LO QUE TENGA QUE VER CON MOTOS CON MOCHILA ATRÁS"
     },
     {
       "id": 12,
@@ -106,16 +117,18 @@
       "lastName": "Jara",
       "age": 21,
       "username": "NiIdea",
-      "email": "jcjara@sudamericano.edu.ec"
+      "email": "jcjara@sudamericano.edu.ec",
+      "description": "No le conozco"
     },
     {
       "id": 13,
-      "image": "https://randomuser.me/api/portraits/men/13.jpg",
+      "image": "https://avatars.githubusercontent.com/salome2112",
       "firstName": "Jhomayra",
       "lastName": "Salome",
       "age": 22,
       "username": "LaDelWilson",
-      "email": "jasalome@sudamericano.edu.ec"
+      "email": "jasalome@sudamericano.edu.ec",
+      "description": "Cualquier cosa"
     },
     {
       "id": 14,
@@ -123,8 +136,9 @@
       "firstName": "Juan",
       "lastName": "Gutierrez",
       "age": 22,
-      "username": "Tecnólogo multifunción",
-      "email": "saullaguari@sudamericano.edu.ec"
+      "username": "Ojo alegre",
+      "email": "saullaguari@sudamericano.edu.ec",
+      "description": "Hablale a las mujeres, no seas meco porfa."
     },
     {
       "id": 15,
@@ -133,81 +147,110 @@
       "lastName": "Ullaguari",
       "age": 22,
       "username": "Tecnólogo multifunción",
-      "email": "saullaguari@sudamericano.edu.ec"
+      "email": "saullaguari@sudamericano.edu.ec",
+      "description": "Barbox"
+    },
+    {
+      "id": 16,
+      "image": "https://avatars.githubusercontent.com/wilson-1",
+      "firstName": "Wilson",
+      "lastName": "Criollo",
+      "age": 22,
+      "username": "La de la Jhomayra",
+      "email": "wpcriollo@sudamericano.edu.ec",
+      "description": "Nose ñaño"
+    },
+    {
+      "id": 17,
+      "image": "https://avatars.githubusercontent.com/ariel12m",
+      "firstName": "Ariel",
+      "lastName": "Samaniego",
+      "age": 21,
+      "username": "Manuel el peruano",
+      "email": "aesamaniego@sudamericano.edu.ec",
+      "description": "Peruano lover. pe causa. Mirador de pe-dramas."
     }
   ],
   "teachers": [
     {
-      "id": 16,
+      "id": 18,
       "image": "https://randomuser.me/api/portraits/women/14.jpg",
       "firstName": "Marco",
       "lastName": "Guamán",
       "age": 23,
       "username": "Master De Software",
-      "email": "maguaman@sudamericano.edu.ec"
+      "email": "maguaman@sudamericano.edu.ec",
+      "description": "No quiero volver al instituto, asi que no me jodan."
     },
     {
-      "id": 17,
+      "id": 19,
       "image": "https://randomuser.me/api/portraits/men/15.jpg",
       "firstName": "Nancy",
       "lastName": "Eras",
       "age": 20,
-      "username": "Sin Palabras",
-      "email": "nmeras@sudamericano.edu.ec"
+      "username": "Nancy",
+      "email": "nmeras@sudamericano.edu.ec",
+      "description": "Profesora joven pero exigente, conocida por su metodología innovadora que combina teoría y práctica de manera efectiva."
     },
     {
-      "id": 18,
+      "id": 20,
       "image": "https://avatars.githubusercontent.com/ghostbounty",
       "firstName": "Jonnathan",
       "lastName": "Vallejo",
       "age": 21,
-      "username": "El de la de al lado",
-      "email": "jdvallejo@sudamericano.edu.ec"
+      "username": "GhostBounty",
+      "email": "jdvallejo@sudamericano.edu.ec",
+      "description": "El profesor misterioso que aparece y desaparece sin previo aviso, dejando siempre tareas intrigantes como legado."
     },
     {
-      "id": 19,
+      "id": 21,
       "image": "https://randomuser.me/api/portraits/men/17.jpg",
       "firstName": "Henry",
       "lastName": "Tigre",
       "age": 24,
       "username": "OtroIngenieroEléctrico123",
-      "email": "hptigre@sudamericano.edu.ec"
+      "email": "hptigre@sudamericano.edu.ec",
+      "description": "El salto del tigre (camustra 6:12). Ingeniero eléctrico convertido en docente, famoso por sus analogías salvajes para explicar conceptos complejos."
     },
     {
-      "id": 20,
+      "id": 22,
       "image": "https://randomuser.me/api/portraits/women/18.jpg",
       "firstName": "Santiago",
       "lastName": "Durazno",
-      "age": 22,
-      "username": "Autoridad Máxima",
-      "email": "stdurazno@sudamericano.edu.ec"
+      "age": 44,
+      "username": "Santiago",
+      "email": "stdurazno@sudamericano.edu.ec",
+      "description": "El veterano del departamento con décadas de experiencia, posee una colección infinita de historias y anécdotas educativas."
     },
     {
-      "id": 21,
+      "id": 23,
       "image": "https://randomuser.me/api/portraits/men/19.jpg",
       "firstName": "Juan",
       "lastName": "Perez",
       "age": 23,
       "username": "Jefe de Jefes",
-      "email": "jmperez@sudamericano.edu.ec"
+      "email": "jmperez@sudamericano.edu.ec",
+      "description": "Mamitas de la resurrección del server. Conectense via ssh (192.168.3.9), usuario: bebe"
     },
     {
-      "id": 22,
+      "id": 24,
       "image": "https://avatars.githubusercontent.com/jhos-vac",
       "firstName": "Jhostin",
       "lastName": "Vacacela",
       "age": 21,
-      "username": "El nuevo",
-      "email": "javacacela@sudamericano.edu.ec"
+      "username": "Jhos",
+      "email": "javacacela@sudamericano.edu.ec",
+      "description": "El nuevo profe"
     },
     {
-      "id": 23,
+      "id": 25,
       "image": "https://avatars.githubusercontent.com/CarolinaAldas",
       "firstName": "Carolina",
       "lastName": "Aldas",
-      "age": 22,
-      "username": "La de móviles",
-      "email": "csaldas@sudamericano.edu.ec"
+      "age": 25,
+      "username": "Profe Caro",
+      "email": "csaldas@sudamericano.edu.ec",
+      "description": "De las clases usted porfa, que ese vrg manda tarea como si diera clases. Costeño marikong"
     }
   ]
 }
