@@ -1,0 +1,213 @@
+{
+  "classmates": [
+    {
+      "id": 1,
+      "image": "https://avatars.githubusercontent.com/daviddotcoms",
+      "firstName": "David",
+      "lastName": "Correa",
+      "age": 19,
+      "username": "DavdrewDev",
+      "email": "dacorrea@sudamericano.edu.ec"
+    },
+    {
+      "id": 2,
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "firstName": "Elkin",
+      "lastName": "Carriel",
+      "age": 22,
+      "username": "el que no perdona nada",
+      "email": "escarriel@sudamericano.edu.ec"
+    },
+    {
+      "id": 3,
+      "image": "https://avatars.githubusercontent.com/alexxcalle",
+      "firstName": "Alex",
+      "lastName": "Calle",
+      "age": 23,
+      "username": "Linux Backend Developer",
+      "email": "axcalle@sudamericano.edu.ec"
+    },
+    {
+      "id": 4,
+      "image": "https://avatars.githubusercontent.com/DamianRoc13",
+      "firstName": "Damian",
+      "lastName": "Olivo",
+      "age": 20,
+      "username": "el que si perdona (a veces)",
+      "email": "drolivo@sudamericano.edu.ec"
+    },
+    {
+      "id": 5,
+      "image": "https://avatars.githubusercontent.com/DanielaM0101",
+      "firstName": "Daniela",
+      "lastName": "Muñoz",
+      "age": 24,
+      "username": "Metro 10",
+      "email": "dkmuñoz@sudamericano.edu.ec"
+    },
+    {
+      "id": 6,
+      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "firstName": "Nathaly",
+      "lastName": "Caballero",
+      "age": 21,
+      "username": "Alá",
+      "email": "nmcaballero@sudamericano.edu.ec"
+    },
+    {
+      "id": 7,
+      "image": "https://avatars.githubusercontent.com/ericksebb",
+      "firstName": "Erick",
+      "lastName": "Prado",
+      "age": 22,
+      "username": "Linux Frontend Developer",
+      "email": "esprado@sudamericano.edu.ec"
+    },
+    {
+      "id": 8,
+      "image": "https://randomuser.me/api/portraits/women/8.jpg",
+      "firstName": "Luis",
+      "lastName": "Tinoco",
+      "age": 20,
+      "username": "El Presi",
+      "email": "latinoco@sudamericano.edu.ec"
+    },
+    {
+      "id": 9,
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "firstName": "Fernando",
+      "lastName": "Encalada",
+      "age": 23,
+      "username": "IngenieroEléctrico123",
+      "email": "flencalada@sudamericano.edu.ec"
+    },
+    {
+      "id": 10,
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "firstName": "Matias",
+      "lastName": "Aguilera",
+      "age": 22,
+      "username": "YoMeLlamo",
+      "email": "amaguilera@sudamericano.edu.ec"
+    },
+    {
+      "id": 11,
+      "image": "https://avatars.githubusercontent.com/anthonyramosc",
+      "firstName": "Anthony",
+      "lastName": "Ramos",
+      "age": 24,
+      "username": "Veneco",
+      "email": "aaramos@sudamericano.edu.ec"
+    },
+    {
+      "id": 12,
+      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "firstName": "Juan",
+      "lastName": "Jara",
+      "age": 21,
+      "username": "NiIdea",
+      "email": "jcjara@sudamericano.edu.ec"
+    },
+    {
+      "id": 13,
+      "image": "https://randomuser.me/api/portraits/men/13.jpg",
+      "firstName": "Jhomayra",
+      "lastName": "Salome",
+      "age": 22,
+      "username": "LaDelWilson",
+      "email": "jasalome@sudamericano.edu.ec"
+    },
+    {
+      "id": 14,
+      "image": "https://avatars.githubusercontent.com/Juandi004",
+      "firstName": "Juan",
+      "lastName": "Gutierrez",
+      "age": 22,
+      "username": "Tecnólogo multifunción",
+      "email": "saullaguari@sudamericano.edu.ec"
+    },
+    {
+      "id": 15,
+      "image": "https://avatars.githubusercontent.com/cheo13",
+      "firstName": "Sergio",
+      "lastName": "Ullaguari",
+      "age": 22,
+      "username": "Tecnólogo multifunción",
+      "email": "saullaguari@sudamericano.edu.ec"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 16,
+      "image": "https://randomuser.me/api/portraits/women/14.jpg",
+      "firstName": "Marco",
+      "lastName": "Guamán",
+      "age": 23,
+      "username": "Master De Software",
+      "email": "maguaman@sudamericano.edu.ec"
+    },
+    {
+      "id": 17,
+      "image": "https://randomuser.me/api/portraits/men/15.jpg",
+      "firstName": "Nancy",
+      "lastName": "Eras",
+      "age": 20,
+      "username": "Sin Palabras",
+      "email": "nmeras@sudamericano.edu.ec"
+    },
+    {
+      "id": 18,
+      "image": "https://avatars.githubusercontent.com/ghostbounty",
+      "firstName": "Jonnathan",
+      "lastName": "Vallejo",
+      "age": 21,
+      "username": "El de la de al lado",
+      "email": "jdvallejo@sudamericano.edu.ec"
+    },
+    {
+      "id": 19,
+      "image": "https://randomuser.me/api/portraits/men/17.jpg",
+      "firstName": "Henry",
+      "lastName": "Tigre",
+      "age": 24,
+      "username": "OtroIngenieroEléctrico123",
+      "email": "hptigre@sudamericano.edu.ec"
+    },
+    {
+      "id": 20,
+      "image": "https://randomuser.me/api/portraits/women/18.jpg",
+      "firstName": "Santiago",
+      "lastName": "Durazno",
+      "age": 22,
+      "username": "Autoridad Máxima",
+      "email": "stdurazno@sudamericano.edu.ec"
+    },
+    {
+      "id": 21,
+      "image": "https://randomuser.me/api/portraits/men/19.jpg",
+      "firstName": "Juan",
+      "lastName": "Perez",
+      "age": 23,
+      "username": "Jefe de Jefes",
+      "email": "jmperez@sudamericano.edu.ec"
+    },
+    {
+      "id": 22,
+      "image": "https://avatars.githubusercontent.com/jhos-vac",
+      "firstName": "Jhostin",
+      "lastName": "Vacacela",
+      "age": 21,
+      "username": "El nuevo",
+      "email": "javacacela@sudamericano.edu.ec"
+    },
+    {
+      "id": 23,
+      "image": "https://avatars.githubusercontent.com/CarolinaAldas",
+      "firstName": "Carolina",
+      "lastName": "Aldas",
+      "age": 22,
+      "username": "La de móviles",
+      "email": "csaldas@sudamericano.edu.ec"
+    }
+  ]
+}
