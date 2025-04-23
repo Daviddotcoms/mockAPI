@@ -281,18 +281,30 @@
     },
     {
       "id": 19,
-      "image": "https://randomuser.me/api/portraits/men/15.jpg",
+      "image": "https://avatars.githubusercontent.com/nmeeras",
       "firstName": "Nancy",
       "lastName": "Eras",
       "age": 20,
-      "username": "Nancy",
+      "username": "nmeras",
       "email": "nmeras@sudamericano.edu.ec",
-      "description": "Profesora joven pero exigente, conocida por su metodología innovadora que combina teoría y práctica de manera efectiva.",
+      "description": "Buena líder, una persona atenta y altruista.",
       "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
+        "Mathlab",
+        "Python",
+        "Comprometida",
+        "Trabajo en equipo",
+        "Proactiva",
+        "IT",
+        "Manejo de base de datos",
+        "Atención al cliente",
+        "Mantenimiento de equipos",
+        "MySQL",
+        "Linux",
+        "Manejo de protocolos de enrutamiento",
+        "VIRTUALBOX",
+        "VMWARE",
+        "ORACLE VM",
+        "Cisco"
       ]
     },
     {
@@ -317,14 +329,18 @@
       "firstName": "Henry",
       "lastName": "Tigre",
       "age": 24,
-      "username": "OtroIngenieroEléctrico123",
+      "username": "Hptigre",
       "email": "hptigre@sudamericano.edu.ec",
-      "description": "El salto del tigre (camustra 6:12). Ingeniero eléctrico convertido en docente, famoso por sus analogías salvajes para explicar conceptos complejos.",
+      "description": "Persona apasionada por la tecnología y la electrónica, enfocado en la automatización. Tratando de aprender siempre.",
       "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
+        "Escuchar",
+        "Aprender",
+        "Paciencia",
+        "Manejo de lenguajes de programación",
+        "Python",
+        "Mathlab",
+        "LabView",
+        "Autómatas programados"
       ]
     },
     {
@@ -383,12 +399,19 @@
       "age": 25,
       "username": "Profe Caro",
       "email": "csaldas@sudamericano.edu.ec",
-      "description": "De las clases usted porfa, que ese vrg manda tarea como si diera clases. Costeño marikong",
+      "description": "Mujer muy apasionada por su trabajo, creativa y emprendedora.",
       "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
+        "Escuchar",
+        "Enseñar",
+        "Crear",
+        "Socializar",
+        "Innovar",
+        "Desarrollar",
+        "CSharp",
+        ".NET",
+        "Python",
+        "Big Data",
+        "Seguridad"
       ]
     }
   ]
