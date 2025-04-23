@@ -8,17 +8,25 @@
       "age": 19,
       "username": "DavdrewDev",
       "email": "dacorrea@sudamericano.edu.ec",
-      "description": " Joven desarrollador apasionado por la tecnología desde los 15 años, siempre con una laptop a cuestas y dispuesto a ayudar en proyectos de programación."
+      "description": " Joven desarrollador apasionado por la tecnología desde los 15 años, siempre con una laptop a cuestas y dispuesto a ayudar en proyectos de programación.",
+      "habilidades": [
+        "Nada"
+      ]
     },
     {
       "id": 2,
       "image": "https://avatars.githubusercontent.com/elkin08c",
       "firstName": "Elkin",
       "lastName": "Carriel",
-      "age": 22,
+      "age": 19,
       "username": "Ghost.elkin",
       "email": "escarriel@sudamericano.edu.ec",
-      "description": "Conocido por su peculiar estilo al vestir y sus comentarios ingeniosos en clase, es el amigo que siempre tiene un chiste listo para romper el hielo."
+      "description": "Conocido por su peculiar estilo al vestir y sus comentarios ingeniosos en clase, es el amigo que siempre tiene un chiste listo para romper el hielo.",
+      "habilidades": [
+        "Nextjs",
+        "Nestjs",
+        "React"
+      ]
     },
     {
       "id": 3,
@@ -28,47 +36,78 @@
       "age": 23,
       "username": "Linux Backend Developer",
       "email": "axcalle@sudamericano.edu.ec",
-      "description": "Veterano del curso con una memoria prodigiosa para recordar anécdotas de todas las generaciones pasadas, siempre tiene una historia interesante que contar."
+      "description": "Veterano del curso con una memoria prodigiosa para recordar anécdotas de todas las generaciones pasadas, siempre tiene una historia interesante que contar.",
+      "habilidades": [
+        "Python",
+        "Nestjs",
+        "GraphQL",
+        "Docker",
+        "Genshin Impact",
+        "Cualquier tipo de juego con gacha"
+      ]
     },
     {
       "id": 4,
       "image": "https://avatars.githubusercontent.com/DamianRoc13",
       "firstName": "Damian",
       "lastName": "Olivo",
-      "age": 20,
-      "username": " DamianRoc",
+      "age": 21,
+      "username": " DamianRoc13",
       "email": "drolivo@sudamericano.edu.ec",
-      "description": "Reconocido por su habilidad natural para resolver problemas complejos, es el estratega del grupo que siempre encuentra soluciones creativas."
+      "description": "Reconocido por su habilidad natural para resolver problemas complejos, es el estratega del grupo que siempre encuentra soluciones creativas.",
+      "habilidades": [
+        "Nestjs",
+        "React",
+        "Python"
+      ]
     },
     {
       "id": 5,
       "image": "https://avatars.githubusercontent.com/DanielaM0101",
       "firstName": "Daniela",
       "lastName": "Muñoz",
-      "age": 24,
-      "username": "Metro 10",
+      "age": 23,
+      "username": "DannyM",
       "email": "dkmuñoz@sudamericano.edu.ec",
-      "description": "Apodada 'Metro 10' por su puntualidad impecable, es la organizadora nata que mantiene al grupo en línea."
+      "description": "Apodada 'Metro 10' por su puntualidad impecable, es la organizadora nata que mantiene al grupo en línea.",
+      "habilidades": [
+        "Nestjs",
+        "Typescript",
+        "Javascript",
+        "C++"
+      ]
     },
     {
       "id": 6,
       "image": "https://randomuser.me/api/portraits/women/6.jpg",
       "firstName": "Nathaly",
       "lastName": "Caballero",
-      "age": 21,
+      "age": 19,
       "username": "Nathaly",
       "email": "nmcaballero@sudamericano.edu.ec",
-      "description": "Mentora experimentada que prefiere mantener un perfil bajo pero siempre está disponible para ayudar a sus estudiantes fuera del horario de clases."
+      "description": "Me gusta la lectura.",
+      "habilidades": [
+        "Supabase",
+        "React",
+        "Nose que mas, no me dijo"
+      ]
     },
     {
       "id": 7,
       "image": "https://avatars.githubusercontent.com/ericksebb",
       "firstName": "Erick",
       "lastName": "Prado",
-      "age": 22,
-      "username": "Linux Frontend Developer",
+      "age": 20,
+      "username": "Ericsebb",
       "email": "esprado@sudamericano.edu.ec",
-      "description": "React Certified Developer"
+      "description": "Negros",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "Linux",
+        "Docker"
+      ]
     },
     {
       "id": 8,
@@ -76,69 +115,101 @@
       "firstName": "Luis",
       "lastName": "Tinoco",
       "age": 20,
-      "username": "El Presi",
+      "username": "LuisT",
       "email": "latinoco@sudamericano.edu.ec",
-      "description": "No sabemos"
+      "description": "Nada",
+      "habilidades": [
+        "Typescript",
+        "Javascript"
+      ]
     },
     {
       "id": 9,
-      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "image": "https://avatars.githubusercontent.com/feceanma",
       "firstName": "Fernando",
       "lastName": "Encalada",
-      "age": 23,
-      "username": "IngenieroEléctrico123",
+      "age": 21,
+      "username": "Abusivo69",
       "email": "flencalada@sudamericano.edu.ec",
-      "description": "Eléctrico"
+      "description": "Soy un genio en redes.",
+      "habilidades": [
+        "Redes",
+        "Typescript",
+        "C++"
+      ]
     },
     {
       "id": 10,
-      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "image": "https://avatars.githubusercontent.com/bymatius28",
       "firstName": "Matias",
       "lastName": "Aguilera",
-      "age": 22,
-      "username": "YoMeLlamo",
+      "age": 19,
+      "username": "ByMatius28",
       "email": "amaguilera@sudamericano.edu.ec",
-      "description": "NOSE"
+      "description": "",
+      "habilidades": [
+        "Angular",
+        "Typescript",
+        "React"
+      ]
     },
     {
       "id": 11,
       "image": "https://avatars.githubusercontent.com/anthonyramosc",
       "firstName": "Anthony",
       "lastName": "Ramos",
-      "age": 24,
-      "username": "Veneco",
+      "age": 19,
+      "username": "Anthonyrmch",
       "email": "aaramos@sudamericano.edu.ec",
-      "description": "VENECO, RAPPI, UBEREATS, TODO LO QUE TENGA QUE VER CON MOTOS CON MOCHILA ATRÁS"
+      "description": "Soy ex-boxeador",
+      "habilidades": [
+        "Angular",
+        "React",
+        "Dirección de Proyectos",
+        "Nestjs"
+      ]
     },
     {
       "id": 12,
-      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "image": "https://avatars.githubusercontent.com/jcjaraa99",
       "firstName": "Juan",
       "lastName": "Jara",
       "age": 21,
-      "username": "NiIdea",
+      "username": "Jcjaraa",
       "email": "jcjara@sudamericano.edu.ec",
-      "description": "No le conozco"
+      "description": "Soy juan jara",
+      "habilidades": [
+        "Python"
+      ]
     },
     {
       "id": 13,
       "image": "https://avatars.githubusercontent.com/salome2112",
       "firstName": "Jhomayra",
       "lastName": "Salome",
-      "age": 22,
-      "username": "LaDelWilson",
+      "age": 20,
+      "username": "Salmon20",
       "email": "jasalome@sudamericano.edu.ec",
-      "description": "Cualquier cosa"
+      "description": "Le gusta usar paint",
+      "habilidades": [
+        "Paint"
+      ]
     },
     {
       "id": 14,
       "image": "https://avatars.githubusercontent.com/Juandi004",
       "firstName": "Juan",
       "lastName": "Gutierrez",
-      "age": 22,
-      "username": "Ojo alegre",
+      "age": 20,
+      "username": "Guti",
       "email": "saullaguari@sudamericano.edu.ec",
-      "description": "Hablale a las mujeres, no seas meco porfa."
+      "description": "Hablale a las mujeres, no seas meco porfa.",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 15,
@@ -148,39 +219,65 @@
       "age": 22,
       "username": "Tecnólogo multifunción",
       "email": "saullaguari@sudamericano.edu.ec",
-      "description": "Barbox"
+      "description": "Barbox",
+      "habilidades": [
+        "Amazon Web Service",
+        "Docker",
+        "Nextjs",
+        "React",
+        "Angular",
+        "Cisco Packet Tracer",
+        "Backend",
+        "Nestjs",
+        "C++",
+        "Arduino",
+        "ESP32"
+      ]
     },
     {
       "id": 16,
       "image": "https://avatars.githubusercontent.com/wilson-1",
       "firstName": "Wilson",
       "lastName": "Criollo",
-      "age": 22,
-      "username": "La de la Jhomayra",
+      "age": 19,
+      "username": "Vilso2005",
       "email": "wpcriollo@sudamericano.edu.ec",
-      "description": "Nose ñaño"
+      "description": "Vivo en el cerro.",
+      "habilidades": [
+        "Agricultura"
+      ]
     },
     {
       "id": 17,
-      "image": "https://avatars.githubusercontent.com/ariel12m",
+      "image": "https://avatars.githubusercontent.com/arielm12",
       "firstName": "Ariel",
       "lastName": "Samaniego",
       "age": 21,
-      "username": "Manuel el peruano",
+      "username": "Ariel46",
       "email": "aesamaniego@sudamericano.edu.ec",
-      "description": "Peruano lover. pe causa. Mirador de pe-dramas."
+      "description": "Si",
+      "habilidades": [
+        "Videojuegos",
+        "Amante de los pe-dramas"
+      ]
     }
   ],
   "teachers": [
     {
       "id": 18,
-      "image": "https://randomuser.me/api/portraits/women/14.jpg",
+      "image": "https://avatars.githubusercontent.com/magbdigital",
       "firstName": "Marco",
       "lastName": "Guamán",
       "age": 23,
       "username": "Master De Software",
       "email": "maguaman@sudamericano.edu.ec",
-      "description": "No quiero volver al instituto, asi que no me jodan."
+      "description": "No quiero volver al instituto, asi que no me jodan.",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 19,
@@ -190,7 +287,13 @@
       "age": 20,
       "username": "Nancy",
       "email": "nmeras@sudamericano.edu.ec",
-      "description": "Profesora joven pero exigente, conocida por su metodología innovadora que combina teoría y práctica de manera efectiva."
+      "description": "Profesora joven pero exigente, conocida por su metodología innovadora que combina teoría y práctica de manera efectiva.",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 20,
@@ -200,7 +303,13 @@
       "age": 21,
       "username": "GhostBounty",
       "email": "jdvallejo@sudamericano.edu.ec",
-      "description": "El profesor misterioso que aparece y desaparece sin previo aviso, dejando siempre tareas intrigantes como legado."
+      "description": "El profesor misterioso que aparece y desaparece sin previo aviso, dejando siempre tareas intrigantes como legado.",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 21,
@@ -210,7 +319,13 @@
       "age": 24,
       "username": "OtroIngenieroEléctrico123",
       "email": "hptigre@sudamericano.edu.ec",
-      "description": "El salto del tigre (camustra 6:12). Ingeniero eléctrico convertido en docente, famoso por sus analogías salvajes para explicar conceptos complejos."
+      "description": "El salto del tigre (camustra 6:12). Ingeniero eléctrico convertido en docente, famoso por sus analogías salvajes para explicar conceptos complejos.",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 22,
@@ -220,7 +335,13 @@
       "age": 44,
       "username": "Santiago",
       "email": "stdurazno@sudamericano.edu.ec",
-      "description": "El veterano del departamento con décadas de experiencia, posee una colección infinita de historias y anécdotas educativas."
+      "description": "El veterano del departamento con décadas de experiencia, posee una colección infinita de historias y anécdotas educativas.",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 23,
@@ -230,7 +351,13 @@
       "age": 23,
       "username": "Jefe de Jefes",
       "email": "jmperez@sudamericano.edu.ec",
-      "description": "Mamitas de la resurrección del server. Conectense via ssh (192.168.3.9), usuario: bebe"
+      "description": "Mamitas de la resurrección del server. Conectense via ssh (192.168.3.9), usuario: bebe",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 24,
@@ -240,7 +367,13 @@
       "age": 21,
       "username": "Jhos",
       "email": "javacacela@sudamericano.edu.ec",
-      "description": "El nuevo profe"
+      "description": "El nuevo profe",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     },
     {
       "id": 25,
@@ -250,7 +383,13 @@
       "age": 25,
       "username": "Profe Caro",
       "email": "csaldas@sudamericano.edu.ec",
-      "description": "De las clases usted porfa, que ese vrg manda tarea como si diera clases. Costeño marikong"
+      "description": "De las clases usted porfa, que ese vrg manda tarea como si diera clases. Costeño marikong",
+      "habilidades": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native"
+      ]
     }
   ]
 }
