@@ -9,9 +9,7 @@
       "username": "DavdrewDev",
       "email": "dacorrea@sudamericano.edu.ec",
       "description": " Joven desarrollador apasionado por la tecnología desde los 15 años, siempre con una laptop a cuestas y dispuesto a ayudar en proyectos de programación.",
-      "habilidades": [
-        "Nada"
-      ]
+      "habilities": ["Nada"]
     },
     {
       "id": 2,
@@ -22,11 +20,7 @@
       "username": "Ghost.elkin",
       "email": "escarriel@sudamericano.edu.ec",
       "description": "Conocido por su peculiar estilo al vestir y sus comentarios ingeniosos en clase, es el amigo que siempre tiene un chiste listo para romper el hielo.",
-      "habilidades": [
-        "Nextjs",
-        "Nestjs",
-        "React"
-      ]
+      "habilities": ["Nextjs", "Nestjs", "React"]
     },
     {
       "id": 3,
@@ -37,7 +31,7 @@
       "username": "Linux Backend Developer",
       "email": "axcalle@sudamericano.edu.ec",
       "description": "Veterano del curso con una memoria prodigiosa para recordar anécdotas de todas las generaciones pasadas, siempre tiene una historia interesante que contar.",
-      "habilidades": [
+      "habilities": [
         "Python",
         "Nestjs",
         "GraphQL",
@@ -55,11 +49,7 @@
       "username": " DamianRoc13",
       "email": "drolivo@sudamericano.edu.ec",
       "description": "Reconocido por su habilidad natural para resolver problemas complejos, es el estratega del grupo que siempre encuentra soluciones creativas.",
-      "habilidades": [
-        "Nestjs",
-        "React",
-        "Python"
-      ]
+      "habilities": ["Nestjs", "React", "Python"]
     },
     {
       "id": 5,
@@ -70,12 +60,7 @@
       "username": "DannyM",
       "email": "dkmuñoz@sudamericano.edu.ec",
       "description": "Apodada 'Metro 10' por su puntualidad impecable, es la organizadora nata que mantiene al grupo en línea.",
-      "habilidades": [
-        "Nestjs",
-        "Typescript",
-        "Javascript",
-        "C++"
-      ]
+      "habilities": ["Nestjs", "Typescript", "Javascript", "C++"]
     },
     {
       "id": 6,
@@ -86,11 +71,7 @@
       "username": "Nathaly",
       "email": "nmcaballero@sudamericano.edu.ec",
       "description": "Me gusta la lectura.",
-      "habilidades": [
-        "Supabase",
-        "React",
-        "Nose que mas, no me dijo"
-      ]
+      "habilities": ["Supabase", "React", "Nose que mas, no me dijo"]
     },
     {
       "id": 7,
@@ -101,13 +82,7 @@
       "username": "Ericsebb",
       "email": "esprado@sudamericano.edu.ec",
       "description": "Negros",
-      "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "Linux",
-        "Docker"
-      ]
+      "habilities": ["Backend", "Nestjs", "React", "Linux", "Docker"]
     },
     {
       "id": 8,
@@ -118,10 +93,7 @@
       "username": "LuisT",
       "email": "latinoco@sudamericano.edu.ec",
       "description": "Nada",
-      "habilidades": [
-        "Typescript",
-        "Javascript"
-      ]
+      "habilities": ["Typescript", "Javascript"]
     },
     {
       "id": 9,
@@ -132,11 +104,7 @@
       "username": "Abusivo69",
       "email": "flencalada@sudamericano.edu.ec",
       "description": "Soy un genio en redes.",
-      "habilidades": [
-        "Redes",
-        "Typescript",
-        "C++"
-      ]
+      "habilities": ["Redes", "Typescript", "C++"]
     },
     {
       "id": 10,
@@ -147,11 +115,7 @@
       "username": "ByMatius28",
       "email": "amaguilera@sudamericano.edu.ec",
       "description": "",
-      "habilidades": [
-        "Angular",
-        "Typescript",
-        "React"
-      ]
+      "habilities": ["Angular", "Typescript", "React"]
     },
     {
       "id": 11,
@@ -162,12 +126,7 @@
       "username": "Anthonyrmch",
       "email": "aaramos@sudamericano.edu.ec",
       "description": "Soy ex-boxeador",
-      "habilidades": [
-        "Angular",
-        "React",
-        "Dirección de Proyectos",
-        "Nestjs"
-      ]
+      "habilities": ["Angular", "React", "Dirección de Proyectos", "Nestjs"]
     },
     {
       "id": 12,
@@ -178,9 +137,7 @@
       "username": "Jcjaraa",
       "email": "jcjara@sudamericano.edu.ec",
       "description": "Soy juan jara",
-      "habilidades": [
-        "Python"
-      ]
+      "habilities": ["Python"]
     },
     {
       "id": 13,
@@ -191,9 +148,7 @@
       "username": "Salmon20",
       "email": "jasalome@sudamericano.edu.ec",
       "description": "Le gusta usar paint",
-      "habilidades": [
-        "Paint"
-      ]
+      "habilities": ["Paint"]
     },
     {
       "id": 14,
@@ -204,12 +159,7 @@
       "username": "Guti",
       "email": "saullaguari@sudamericano.edu.ec",
       "description": "Hablale a las mujeres, no seas meco porfa.",
-      "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
-      ]
+      "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
       "id": 15,
@@ -220,7 +170,7 @@
       "username": "Tecnólogo multifunción",
       "email": "saullaguari@sudamericano.edu.ec",
       "description": "Barbox",
-      "habilidades": [
+      "habilities": [
         "Amazon Web Service",
         "Docker",
         "Nextjs",
@@ -243,9 +193,7 @@
       "username": "Vilso2005",
       "email": "wpcriollo@sudamericano.edu.ec",
       "description": "Vivo en el cerro.",
-      "habilidades": [
-        "Agricultura"
-      ]
+      "habilities": ["Agricultura"]
     },
     {
       "id": 17,
@@ -256,10 +204,7 @@
       "username": "Ariel46",
       "email": "aesamaniego@sudamericano.edu.ec",
       "description": "Si",
-      "habilidades": [
-        "Videojuegos",
-        "Amante de los pe-dramas"
-      ]
+      "habilities": ["Videojuegos", "Amante de los pe-dramas"]
     }
   ],
   "teachers": [
@@ -272,12 +217,7 @@
       "username": "Master De Software",
       "email": "maguaman@sudamericano.edu.ec",
       "description": "No quiero volver al instituto, asi que no me jodan.",
-      "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
-      ]
+      "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
       "id": 19,
@@ -288,7 +228,7 @@
       "username": "nmeras",
       "email": "nmeras@sudamericano.edu.ec",
       "description": "Buena líder, una persona atenta y altruista.",
-      "habilidades": [
+      "habilities": [
         "Mathlab",
         "Python",
         "Comprometida",
@@ -316,12 +256,7 @@
       "username": "GhostBounty",
       "email": "jdvallejo@sudamericano.edu.ec",
       "description": "El profesor misterioso que aparece y desaparece sin previo aviso, dejando siempre tareas intrigantes como legado.",
-      "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
-      ]
+      "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
       "id": 21,
@@ -332,7 +267,7 @@
       "username": "Hptigre",
       "email": "hptigre@sudamericano.edu.ec",
       "description": "Persona apasionada por la tecnología y la electrónica, enfocado en la automatización. Tratando de aprender siempre.",
-      "habilidades": [
+      "habilities": [
         "Escuchar",
         "Aprender",
         "Paciencia",
@@ -352,12 +287,7 @@
       "username": "Santiago",
       "email": "stdurazno@sudamericano.edu.ec",
       "description": "El veterano del departamento con décadas de experiencia, posee una colección infinita de historias y anécdotas educativas.",
-      "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
-      ]
+      "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
       "id": 23,
@@ -368,12 +298,7 @@
       "username": "Jefe de Jefes",
       "email": "jmperez@sudamericano.edu.ec",
       "description": "Mamitas de la resurrección del server. Conectense via ssh (192.168.3.9), usuario: bebe",
-      "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
-      ]
+      "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
       "id": 24,
@@ -384,12 +309,7 @@
       "username": "Jhos",
       "email": "javacacela@sudamericano.edu.ec",
       "description": "El nuevo profe",
-      "habilidades": [
-        "Backend",
-        "Nestjs",
-        "React",
-        "React Native"
-      ]
+      "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
       "id": 25,
@@ -400,7 +320,7 @@
       "username": "Profe Caro",
       "email": "csaldas@sudamericano.edu.ec",
       "description": "Mujer muy apasionada por su trabajo, creativa y emprendedora.",
-      "habilidades": [
+      "habilities": [
         "Escuchar",
         "Enseñar",
         "Crear",
