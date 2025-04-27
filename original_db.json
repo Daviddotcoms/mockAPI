@@ -8,17 +8,19 @@
       "age": 19,
       "username": "DavdrewDev",
       "email": "dacorrea@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Entusiasta de teclados.",
+      "habilities": ["N", "A", "D", "A"]
     },
     {
       "id": 2,
       "image": "https://avatars.githubusercontent.com/elkin08c",
       "firstName": "Elkin",
       "lastName": "Carriel",
-      "age": 22,
+      "age": 19,
       "username": "Ghost.elkin",
       "email": "escarriel@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Elkin es una bestia, nomás en el fortnite le gano.",
+      "habilities": ["Nextjs", "Nestjs", "React"]
     },
     {
       "id": 3,
@@ -28,117 +30,136 @@
       "age": 23,
       "username": "Linux Backend Developer",
       "email": "axcalle@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Amante de python, linux developler. Juego MMOs para tener que farmear toda la vida.",
+      "habilities": [
+        "Python",
+        "Nestjs",
+        "GraphQL",
+        "Docker",
+        "Genshin Impact",
+        "Cualquier tipo de juego con gacha"
+      ]
     },
     {
       "id": 4,
       "image": "https://avatars.githubusercontent.com/DamianRoc13",
       "firstName": "Damian",
       "lastName": "Olivo",
-      "age": 20,
-      "username": " DamianRoc",
+      "age": 21,
+      "username": " DamianRoc13",
       "email": "drolivo@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Me gusta socializar mucho con la gente de mi alrededor. Tengo experiencia con programando en React.",
+      "habilities": ["Nestjs", "React", "Python"]
     },
     {
       "id": 5,
       "image": "https://avatars.githubusercontent.com/DanielaM0101",
       "firstName": "Daniela",
       "lastName": "Muñoz",
-      "age": 24,
-      "username": "Metro 10",
+      "age": 23,
+      "username": "DannyM",
       "email": "dkmuñoz@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "No se",
+      "habilities": ["Nestjs", "Typescript", "Javascript", "C++"]
     },
     {
       "id": 6,
-      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "image": "https://avatars.githubusercontent.com/nathaly222",
       "firstName": "Nathaly",
       "lastName": "Caballero",
-      "age": 21,
-      "username": "Alá",
+      "age": 19,
+      "username": "Nathaly",
       "email": "nmcaballero@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Me gusta la lectura.",
+      "habilities": ["Supabase", "React", "Nose que mas, no me dijo"]
     },
     {
       "id": 7,
       "image": "https://avatars.githubusercontent.com/ericksebb",
       "firstName": "Erick",
       "lastName": "Prado",
-      "age": 22,
-      "username": "Linux Frontend Developer",
+      "age": 20,
+      "username": "Ericsebb",
       "email": "esprado@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Negros",
+      "habilities": ["Backend", "Nestjs", "React", "Linux", "Docker"]
     },
     {
       "id": 8,
-      "image": "https://randomuser.me/api/portraits/women/8.jpg",
+      "image": "https://avatars.githubusercontent.com/luis05t",
       "firstName": "Luis",
       "lastName": "Tinoco",
       "age": 20,
-      "username": "El Presi",
+      "username": "LuisT",
       "email": "latinoco@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Vivo en el cerro.",
+      "habilities": ["Typescript", "Javascript"]
     },
     {
       "id": 9,
-      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "image": "https://avatars.githubusercontent.com/feceanma",
       "firstName": "Fernando",
       "lastName": "Encalada",
-      "age": 23,
-      "username": "IngenieroEléctrico123",
+      "age": 21,
+      "username": "Abusivo69",
       "email": "flencalada@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Soy un genio en redes.",
+      "habilities": ["Redes", "Typescript", "C++"]
     },
     {
       "id": 10,
-      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "image": "https://avatars.githubusercontent.com/bymatius28",
       "firstName": "Matias",
       "lastName": "Aguilera",
-      "age": 22,
-      "username": "YoMeLlamo",
+      "age": 19,
+      "username": "ByMatius28",
       "email": "amaguilera@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Se cantar y me gusta el futbol.",
+      "habilities": ["Angular", "Typescript", "React"]
     },
     {
       "id": 11,
       "image": "https://avatars.githubusercontent.com/anthonyramosc",
       "firstName": "Anthony",
       "lastName": "Ramos",
-      "age": 24,
-      "username": "Veneco",
+      "age": 19,
+      "username": "Anthonyrmch",
       "email": "aaramos@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Soy ex-boxeador y me gusta leer.",
+      "habilities": ["Angular", "React", "Dirección de Proyectos", "Nestjs"]
     },
     {
       "id": 12,
-      "image": "https://randomuser.me/api/portraits/women/12.jpg",
+      "image": "https://avatars.githubusercontent.com/jcjaraa99",
       "firstName": "Juan",
       "lastName": "Jara",
       "age": 21,
-      "username": "NiIdea",
+      "username": "Jcjaraa",
       "email": "jcjara@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Soy juan jara",
+      "habilities": ["Python"]
     },
     {
       "id": 13,
       "image": "https://avatars.githubusercontent.com/salome2112",
       "firstName": "Jhomayra",
       "lastName": "Salome",
-      "age": 22,
-      "username": "LaDelWilson",
+      "age": 20,
+      "username": "Salmon20",
       "email": "jasalome@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Le gusta usar paint",
+      "habilities": ["Paint"]
     },
     {
       "id": 14,
       "image": "https://avatars.githubusercontent.com/Juandi004",
       "firstName": "Juan",
       "lastName": "Gutierrez",
-      "age": 22,
-      "username": "Ojo alegre",
+      "age": 20,
+      "username": "Guti",
       "email": "saullaguari@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Dice el wilson que le hables a las mujeres. Porque los hombres son de él.",
+      "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
       "id": 15,
@@ -146,51 +167,117 @@
       "firstName": "Sergio",
       "lastName": "Ullaguari",
       "age": 22,
-      "username": "Tecnólogo multifunción",
-      "email": "saullaguari@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "username": "Joven Diseñador de Barbox",
+      "email": "scullaguari@sudamericano.edu.ec",
+      "description": "Estoy interesado en aprender cosas nuevas en esta vida puerca de pura toma de decisiones, ceros y unos...",
+      "habilities": [
+        "Amazon Web Service",
+        "Docker",
+        "Nextjs",
+        "React",
+        "Angular",
+        "Cisco Packet Tracer",
+        "Backend",
+        "Nestjs",
+        "C++",
+        "Arduino",
+        "ESP32",
+        "Typescript",
+        "C#",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "TailwindCSS",
+        "Chakra UI",
+        "Material UI"
+      ]
     },
     {
       "id": 16,
       "image": "https://avatars.githubusercontent.com/wilson-1",
       "firstName": "Wilson",
       "lastName": "Criollo",
-      "age": 22,
-      "username": "La de la Jhomayra",
+      "age": 19,
+      "username": "Vilso2005",
       "email": "wpcriollo@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Yo también vivo en el cerro.",
+      "habilities": [
+        "Sistemas",
+        "Tecnología general",
+        "Arquitectura de computadoras",
+        "Danza de la lluvia",
+        "Danza del sol"
+      ]
     },
     {
       "id": 17,
-      "image": "https://avatars.githubusercontent.com/ariel12m",
+      "image": "https://avatars.githubusercontent.com/arielm12",
       "firstName": "Ariel",
       "lastName": "Samaniego",
       "age": 21,
-      "username": "Manuel el peruano",
+      "username": "Ariel46",
       "email": "aesamaniego@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Si",
+      "habilities": ["Videojuegos", "Amante de los pe-dramas"]
     }
   ],
   "teachers": [
     {
       "id": 18,
-      "image": "https://randomuser.me/api/portraits/women/14.jpg",
+      "image": "https://avatars.githubusercontent.com/magbdigital",
       "firstName": "Marco",
       "lastName": "Guamán",
       "age": 23,
       "username": "Master De Software",
       "email": "maguaman@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "No quiero volver al instituto, asi que no me jodan.",
+      "habilities": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "Pascal",
+        "Bases de Datos",
+        "Kotlin",
+        "SpringBoot",
+        "Analista de Datos",
+        "Psicólogo",
+        "Sistemas",
+        "Despliegue",
+        "Servidores",
+        "Linux",
+        "Web Servers",
+        "Nginx",
+        "Docker",
+        "Javascript"
+      ]
     },
     {
       "id": 19,
-      "image": "https://randomuser.me/api/portraits/men/15.jpg",
+      "image": "https://avatars.githubusercontent.com/nmeeras",
       "firstName": "Nancy",
       "lastName": "Eras",
-      "age": 20,
-      "username": "Sin Palabras",
+      "age": 30,
+      "username": "nmeras",
       "email": "nmeras@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Buena líder, una persona atenta y altruista.",
+      "habilities": [
+        "Mathlab",
+        "Python",
+        "Comprometida",
+        "Trabajo en equipo",
+        "Proactiva",
+        "IT",
+        "Manejo de base de datos",
+        "Atención al cliente",
+        "Mantenimiento de equipos",
+        "MySQL",
+        "Linux",
+        "Manejo de protocolos de enrutamiento",
+        "VIRTUALBOX",
+        "VMWARE",
+        "ORACLE VM",
+        "Cisco"
+      ]
     },
     {
       "id": 20,
@@ -198,39 +285,81 @@
       "firstName": "Jonnathan",
       "lastName": "Vallejo",
       "age": 21,
-      "username": "El de la de al lado",
+      "username": "GhostBounty",
       "email": "jdvallejo@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "El profesor misterioso que aparece y desaparece sin previo aviso, dejando siempre tareas intrigantes como legado.",
+      "habilities": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native",
+        "Figma",
+        "Teachable Machine",
+        "Discursos",
+        "Trabajo en equipo"
+      ]
     },
     {
       "id": 21,
-      "image": "https://randomuser.me/api/portraits/men/17.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
       "firstName": "Henry",
       "lastName": "Tigre",
       "age": 24,
-      "username": "OtroIngenieroEléctrico123",
+      "username": "Hptigre",
       "email": "hptigre@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Persona apasionada por la tecnología y la electrónica, enfocado en la automatización. Tratando de aprender siempre.",
+      "habilities": [
+        "Escuchar",
+        "Aprender",
+        "Paciencia",
+        "Manejo de lenguajes de programación",
+        "Python",
+        "Mathlab",
+        "LabView",
+        "Autómatas programados",
+        "Protocolos de comunicación",
+        "Redes",
+        "Electrónica",
+        "Cisco Packet Tracer"
+      ]
     },
     {
       "id": 22,
-      "image": "https://randomuser.me/api/portraits/women/18.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
       "firstName": "Santiago",
       "lastName": "Durazno",
       "age": 44,
       "username": "Santiago",
       "email": "stdurazno@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "El veterano del departamento con décadas de experiencia, posee una colección infinita de historias y anécdotas educativas.",
+      "habilities": [
+        "UML",
+        "Metodologías Ágiles",
+        "Metodologías Tradicionales",
+        "Dirección de Proyectos",
+        "Paciente",
+        "Enseñar",
+        "Arquitectura de Software",
+        "Diseño de Software"
+      ]
     },
     {
       "id": 23,
-      "image": "https://randomuser.me/api/portraits/men/19.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
       "firstName": "Juan",
       "lastName": "Perez",
       "age": 23,
       "username": "Jefe de Jefes",
       "email": "jmperez@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Mamitas de la resurrección del server. Conectense via ssh (192.168.3.9), usuario: bebe",
+      "habilities": [
+        "Linux",
+        "Servidores",
+        "PROXMOX",
+        "Instalaciónd de SO",
+        "SSH",
+        "Protocolos de comunicación"
+      ]
     },
     {
       "id": 24,
@@ -238,9 +367,23 @@
       "firstName": "Jhostin",
       "lastName": "Vacacela",
       "age": 21,
-      "username": "El nuevo",
+      "username": "Jhos",
       "email": "javacacela@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Profe de nuevo ingreso",
+      "habilities": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native",
+        "Microsoft Azure",
+        "CI/CD",
+        "Servidores",
+        "QA",
+        "Desarrollo Mobile",
+        "Nodejs",
+        "SpringBoot",
+        "Typescript"
+      ]
     },
     {
       "id": 25,
@@ -250,7 +393,20 @@
       "age": 25,
       "username": "Profe Caro",
       "email": "csaldas@sudamericano.edu.ec",
-      "description": "La mayor bestia de todas"
+      "description": "Mujer muy apasionada por su trabajo, creativa y emprendedora.",
+      "habilities": [
+        "Escuchar",
+        "Enseñar",
+        "Crear",
+        "Socializar",
+        "Innovar",
+        "Desarrollar",
+        "CSharp",
+        ".NET",
+        "Python",
+        "Big Data",
+        "Seguridad"
+      ]
     }
   ]
 }
