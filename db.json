@@ -8,8 +8,8 @@
       "age": 19,
       "username": "DavdrewDev",
       "email": "dacorrea@sudamericano.edu.ec",
-      "description": " Joven desarrollador apasionado por la tecnología desde los 15 años, siempre con una laptop a cuestas y dispuesto a ayudar en proyectos de programación.",
-      "habilities": ["Nada"]
+      "description": "Entusiasta de teclados.",
+      "habilities": ["N", "A", "D", "A"]
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "age": 19,
       "username": "Ghost.elkin",
       "email": "escarriel@sudamericano.edu.ec",
-      "description": "Conocido por su peculiar estilo al vestir y sus comentarios ingeniosos en clase, es el amigo que siempre tiene un chiste listo para romper el hielo.",
+      "description": "Elkin es una bestia, nomás en el fortnite le gano.",
       "habilities": ["Nextjs", "Nestjs", "React"]
     },
     {
@@ -30,7 +30,7 @@
       "age": 23,
       "username": "Linux Backend Developer",
       "email": "axcalle@sudamericano.edu.ec",
-      "description": "Veterano del curso con una memoria prodigiosa para recordar anécdotas de todas las generaciones pasadas, siempre tiene una historia interesante que contar.",
+      "description": "Amante de python, linux developler. Juego MMOs para tener que farmear toda la vida.",
       "habilities": [
         "Python",
         "Nestjs",
@@ -48,7 +48,7 @@
       "age": 21,
       "username": " DamianRoc13",
       "email": "drolivo@sudamericano.edu.ec",
-      "description": "Reconocido por su habilidad natural para resolver problemas complejos, es el estratega del grupo que siempre encuentra soluciones creativas.",
+      "description": "Me gusta socializar mucho con la gente de mi alrededor. Tengo experiencia con programando en React.",
       "habilities": ["Nestjs", "React", "Python"]
     },
     {
@@ -59,12 +59,12 @@
       "age": 23,
       "username": "DannyM",
       "email": "dkmuñoz@sudamericano.edu.ec",
-      "description": "Apodada 'Metro 10' por su puntualidad impecable, es la organizadora nata que mantiene al grupo en línea.",
+      "description": "No se",
       "habilities": ["Nestjs", "Typescript", "Javascript", "C++"]
     },
     {
       "id": 6,
-      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "image": "https://avatars.githubusercontent.com/nathaly222",
       "firstName": "Nathaly",
       "lastName": "Caballero",
       "age": 19,
@@ -86,13 +86,13 @@
     },
     {
       "id": 8,
-      "image": "https://randomuser.me/api/portraits/women/8.jpg",
+      "image": "https://avatars.githubusercontent.com/luis05t",
       "firstName": "Luis",
       "lastName": "Tinoco",
       "age": 20,
       "username": "LuisT",
       "email": "latinoco@sudamericano.edu.ec",
-      "description": "Nada",
+      "description": "Vivo en el cerro.",
       "habilities": ["Typescript", "Javascript"]
     },
     {
@@ -114,7 +114,7 @@
       "age": 19,
       "username": "ByMatius28",
       "email": "amaguilera@sudamericano.edu.ec",
-      "description": "",
+      "description": "Se cantar y me gusta el futbol.",
       "habilities": ["Angular", "Typescript", "React"]
     },
     {
@@ -125,7 +125,7 @@
       "age": 19,
       "username": "Anthonyrmch",
       "email": "aaramos@sudamericano.edu.ec",
-      "description": "Soy ex-boxeador",
+      "description": "Soy ex-boxeador y me gusta leer.",
       "habilities": ["Angular", "React", "Dirección de Proyectos", "Nestjs"]
     },
     {
@@ -158,7 +158,7 @@
       "age": 20,
       "username": "Guti",
       "email": "saullaguari@sudamericano.edu.ec",
-      "description": "Hablale a las mujeres, no seas meco porfa.",
+      "description": "Dice el wilson que le hables a las mujeres. Porque los hombres son de él.",
       "habilities": ["Backend", "Nestjs", "React", "React Native"]
     },
     {
@@ -167,9 +167,9 @@
       "firstName": "Sergio",
       "lastName": "Ullaguari",
       "age": 22,
-      "username": "Tecnólogo multifunción",
-      "email": "saullaguari@sudamericano.edu.ec",
-      "description": "Barbox",
+      "username": "Joven Diseñador de Barbox",
+      "email": "scullaguari@sudamericano.edu.ec",
+      "description": "Estoy interesado en aprender cosas nuevas en esta vida puerca de pura toma de decisiones, ceros y unos...",
       "habilities": [
         "Amazon Web Service",
         "Docker",
@@ -181,7 +181,15 @@
         "Nestjs",
         "C++",
         "Arduino",
-        "ESP32"
+        "ESP32",
+        "Typescript",
+        "C#",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "TailwindCSS",
+        "Chakra UI",
+        "Material UI"
       ]
     },
     {
@@ -192,8 +200,14 @@
       "age": 19,
       "username": "Vilso2005",
       "email": "wpcriollo@sudamericano.edu.ec",
-      "description": "Vivo en el cerro.",
-      "habilities": ["Agricultura"]
+      "description": "Yo también vivo en el cerro.",
+      "habilities": [
+        "Sistemas",
+        "Tecnología general",
+        "Arquitectura de computadoras",
+        "Danza de la lluvia",
+        "Danza del sol"
+      ]
     },
     {
       "id": 17,
@@ -217,14 +231,32 @@
       "username": "Master De Software",
       "email": "maguaman@sudamericano.edu.ec",
       "description": "No quiero volver al instituto, asi que no me jodan.",
-      "habilities": ["Backend", "Nestjs", "React", "React Native"]
+      "habilities": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "Pascal",
+        "Bases de Datos",
+        "Kotlin",
+        "SpringBoot",
+        "Analista de Datos",
+        "Psicólogo",
+        "Sistemas",
+        "Despliegue",
+        "Servidores",
+        "Linux",
+        "Web Servers",
+        "Nginx",
+        "Docker",
+        "Javascript"
+      ]
     },
     {
       "id": 19,
       "image": "https://avatars.githubusercontent.com/nmeeras",
       "firstName": "Nancy",
       "lastName": "Eras",
-      "age": 20,
+      "age": 30,
       "username": "nmeras",
       "email": "nmeras@sudamericano.edu.ec",
       "description": "Buena líder, una persona atenta y altruista.",
@@ -256,11 +288,20 @@
       "username": "GhostBounty",
       "email": "jdvallejo@sudamericano.edu.ec",
       "description": "El profesor misterioso que aparece y desaparece sin previo aviso, dejando siempre tareas intrigantes como legado.",
-      "habilities": ["Backend", "Nestjs", "React", "React Native"]
+      "habilities": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native",
+        "Figma",
+        "Teachable Machine",
+        "Discursos",
+        "Trabajo en equipo"
+      ]
     },
     {
       "id": 21,
-      "image": "https://randomuser.me/api/portraits/men/17.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
       "firstName": "Henry",
       "lastName": "Tigre",
       "age": 24,
@@ -275,30 +316,50 @@
         "Python",
         "Mathlab",
         "LabView",
-        "Autómatas programados"
+        "Autómatas programados",
+        "Protocolos de comunicación",
+        "Redes",
+        "Electrónica",
+        "Cisco Packet Tracer"
       ]
     },
     {
       "id": 22,
-      "image": "https://randomuser.me/api/portraits/women/18.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
       "firstName": "Santiago",
       "lastName": "Durazno",
       "age": 44,
       "username": "Santiago",
       "email": "stdurazno@sudamericano.edu.ec",
       "description": "El veterano del departamento con décadas de experiencia, posee una colección infinita de historias y anécdotas educativas.",
-      "habilities": ["Backend", "Nestjs", "React", "React Native"]
+      "habilities": [
+        "UML",
+        "Metodologías Ágiles",
+        "Metodologías Tradicionales",
+        "Dirección de Proyectos",
+        "Paciente",
+        "Enseñar",
+        "Arquitectura de Software",
+        "Diseño de Software"
+      ]
     },
     {
       "id": 23,
-      "image": "https://randomuser.me/api/portraits/men/19.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/023/465/688/non_2x/contact-dark-mode-glyph-ui-icon-address-book-profile-page-user-interface-design-white-silhouette-symbol-on-black-space-solid-pictogram-for-web-mobile-isolated-illustration-vector.jpg",
       "firstName": "Juan",
       "lastName": "Perez",
       "age": 23,
       "username": "Jefe de Jefes",
       "email": "jmperez@sudamericano.edu.ec",
       "description": "Mamitas de la resurrección del server. Conectense via ssh (192.168.3.9), usuario: bebe",
-      "habilities": ["Backend", "Nestjs", "React", "React Native"]
+      "habilities": [
+        "Linux",
+        "Servidores",
+        "PROXMOX",
+        "Instalaciónd de SO",
+        "SSH",
+        "Protocolos de comunicación"
+      ]
     },
     {
       "id": 24,
@@ -308,8 +369,21 @@
       "age": 21,
       "username": "Jhos",
       "email": "javacacela@sudamericano.edu.ec",
-      "description": "El nuevo profe",
-      "habilities": ["Backend", "Nestjs", "React", "React Native"]
+      "description": "Profe de nuevo ingreso",
+      "habilities": [
+        "Backend",
+        "Nestjs",
+        "React",
+        "React Native",
+        "Microsoft Azure",
+        "CI/CD",
+        "Servidores",
+        "QA",
+        "Desarrollo Mobile",
+        "Nodejs",
+        "SpringBoot",
+        "Typescript"
+      ]
     },
     {
       "id": 25,
