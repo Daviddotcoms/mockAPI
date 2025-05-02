@@ -9,7 +9,7 @@
       "username": "DavdrewDev",
       "email": "dacorrea@sudamericano.edu.ec",
       "description": "Entusiasta de teclados.",
-      "habilities": ["N", "A", "D", "A"]
+      "habilities": ["N", "A", "D", "A", "Paño de lágrimas"]
     },
     {
       "id": 2,
@@ -230,7 +230,7 @@
       "age": 23,
       "username": "Master De Software",
       "email": "maguaman@sudamericano.edu.ec",
-      "description": "No quiero volver al instituto, asi que no me jodan.",
+      "description": "Kotlin entusiast developer.",
       "habilities": [
         "Backend",
         "Nestjs",
@@ -248,7 +248,8 @@
         "Web Servers",
         "Nginx",
         "Docker",
-        "Javascript"
+        "Javascript",
+        "Paño de lágrimas"
       ]
     },
     {
@@ -276,7 +277,8 @@
         "VIRTUALBOX",
         "VMWARE",
         "ORACLE VM",
-        "Cisco"
+        "Cisco",
+        "Del valle"
       ]
     },
     {
