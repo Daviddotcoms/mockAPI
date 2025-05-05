@@ -1,7 +1,7 @@
 ## Este es el proyecto que deberán utilizar para la práctica de la clase de docker de la semana 6
 
 
-#### FrontEnd: https://github.com/Daviddotcoms/suda-frontend-s5
+#### FrontEnd: https://github.com/Daviddotcoms/suda-frontend-s6
 
 # Instrucciones
 1. Clonar este repositorio
